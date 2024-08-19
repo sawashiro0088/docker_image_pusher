@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 cym1102/nginxwebui
 jeessy/ddns-go
-jitesoft/sqlite
+drupalci/sqlite-3
