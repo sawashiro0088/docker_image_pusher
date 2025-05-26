@@ -8,3 +8,4 @@ cym1102/nginxwebui
 jeessy/ddns-go
 esolang/sqlite3
 jitesoft/sqlite
+homeassistant/home-assistant
